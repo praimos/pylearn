@@ -1,4 +1,4 @@
-#!/Users/neshumov/PycharmProjects/pylearn/bin/python
+#!/home/alex/PycharmProjects/pylearn/bin/python
 
 import sys
 import getopt
