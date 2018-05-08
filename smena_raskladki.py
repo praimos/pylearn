@@ -13,4 +13,4 @@ while True:
     new_slovo = ''.join(new_slovo)
     if new_slovo == '':
         break
-    print(new_slovo)
+    print(new_slovo+"\n")
