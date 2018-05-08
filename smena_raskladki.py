@@ -11,6 +11,6 @@ while True:
             if bu == key:
                 new_slovo.append(slo[key])
     new_slovo = ''.join(new_slovo)
-    if new_slovo == '':
+    if slovo == '':
         break
     print(new_slovo+"\n")
